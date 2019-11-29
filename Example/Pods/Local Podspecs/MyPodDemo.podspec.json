@@ -1,0 +1,22 @@
+{
+  "name": "MyPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of MyPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DuYangLu/MyPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DuYangLu": "luduyang@zto.com"
+  },
+  "source": {
+    "git": "https://github.com/DuYangLu/MyPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPodDemo/Classes/**/*"
+}

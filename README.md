@@ -22,7 +22,7 @@ pod 'MyPodDemo'
 
 ## Author
 
-DuYangLu, luduyang@zto.com
+DuYangLu, luduyang@qq.com
 
 ## License
 
